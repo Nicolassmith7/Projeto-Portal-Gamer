@@ -12,7 +12,7 @@ Projeto desenvolvido como parte do meu portfólio, unindo minha paixão por game
 - Layout responsivo
 - Navegação intuitiva
 - Conteúdo dinâmico sobre games
-- 
+ 
 ## 🚀 Como visualizar o projeto
 Você pode baixar os arquivos e abrir o `index.html` no navegador.
 
